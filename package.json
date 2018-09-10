@@ -1,0 +1,27 @@
+{
+  "name": "nonempty-collections",
+  "version": "1.0.0",
+  "description": "NonEmptyArray and NonEmptySet in plain JavaScript",
+  "main": "src/nonEmpty.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodename/nonempty-collections.git"
+  },
+  "keywords": [
+    "nonempty",
+    "array",
+    "set"
+  ],
+  "author": "Alan Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodename/nonempty-collections/issues"
+  },
+  "homepage": "https://github.com/nodename/nonempty-collections#readme"
+}
